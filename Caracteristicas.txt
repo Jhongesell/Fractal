@@ -1,0 +1,38 @@
+Version 2.0.1
+<ul>
+<li>Conjunto de Mandelbrot</li>
+<ul>
+<li>C&aacute;lculo del conjunto de Mandelbrot usando un conjunto de puntos cr&iacute;ticos variable</li>
+<li>C&aacute;lculo del conjunto de Julia y Fatou tomando un punto del conjunto de Mandelbrot</li>
+<li>Frontera del conjunto de Mandelbrot</li>
+<li>Lenguas de Arnold (regiones de atracci&oacute;n de peri&oacute;dicas)</li>
+<li>Todas las cuencuas de atracci&oacute;n</li>
+<li>Cuencas de atracci&oacute;n finitas</li>
+<li>Cuenca de atracci&oacute;n del infinito</li>
+<li>C&aacute;lculo continuo del conjunto de Julia y Fatou tomando un punto del conjunto de Mandelbrot se&ntilde;alado por la posici&oacute;n del mouse</li>
+<li>C&aacute;lculo del per&iacute;odo de la &oacute;rbita atractora de alg&uacute;n punto</li>
+</ul>
+</ul>
+<center><br><p><img SRC="./Imagenes/Imagen1.png" ALT="Ventana Mandelbrot" NOSAVE BORDER=0 ></center>
+<ul>
+<li>Conjunto de Julia y Fatou</li>
+<ul>
+<li>C&aacute;lculo del conjunto de Julia y Fatou</li>
+<li>C&aacute;lculo de iteraci&oacute;n de un punto seleccionado</li>
+<li>C&aacute;lculo de puntos atractores</li>
+<li>Frontera del conjunto de Julia</li>
+<li>Lenguas de Arnold (regiones de atracci&oacute;n de peri&oacute;dicas)</li>
+<li>Todas las cuencuas de atracci&oacute;n</li>
+<li>Cuencas de atracci&oacute;n finitas</li>
+<li>Cuenca de atracci&oacute;n del infinito</li>
+<li>C&aacute;lculo de la iteraci&oacute;n de una funci&oacute;n real para ejes X o Y</li>
+<li>C&aacute;lculo de im&aacute;genes directas</li>
+<li>C&aacute;lculo de im&aacute;genes inversas</li>
+</ul>
+</ul>
+<center><br><p><img SRC="./Imagenes/Imagen2.png" ALT="Ventana Julia y Fatou" NOSAVE BORDER=0 ></center>
+<br><br><br>
+
+Nota: Para poder calcular el conjunto de Mandelbrot se deber&aacute; 
+proporcionar el conjunto de puntos cr&iacute;ticos del mapeo, estos deben de ser 
+un n&uacute;mero finito.

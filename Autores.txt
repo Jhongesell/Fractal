@@ -1,0 +1,32 @@
+<b>Versi&oacute;n 2.0.0
+<ul>
+<li><b>Adici&oacute;n de Nuevas Caracter&iacute;sticas y Mantenimiento a la Parte Matem&aacute;tica</b></li>
+<ul>
+<li><i><a href="/acl/" target="_blank">Antonio Carrillo Ledesma</a></i></li>
+<li><i><a href="http://www.dynamics.unam.edu/gsl/" target="_blank">Guillermo Sienra Loera</a></i></li>
+<li><i>Jefferson King D&aacute;valos</i></li>
+</ul>
+<li><b>An&aacute;lis, Dise&ntilde;o y Programaci&oacute;n</b></li>
+<ul>
+<li><i><a href="/acl/" target="_blank">Antonio Carrillo Ledesma</a></i></li>
+<li><i><a href="http://www.dynamics.unam.edu/gsl/" target="_blank">Guillermo Sienra Loera</a></i></li>
+<li><i>Jefferson King D&aacute;valos</i></li>
+</ul>
+</ul>
+</ul>
+<br>
+
+<b>Versi&oacute;n 1.0.0
+<ul>
+<li><b>An&aacute;lisis, Dise&ntilde;o y Programaci&oacute;n</b></li>
+<ul>
+<li><i><a href="/acl" target="_blank">Antonio Carrillo Ledesma</a></i></li>
+</ul>
+</ul>
+<br><br>
+<b>Controlador de Versi&oacute;n:</b>
+<ul>
+<li><i><a href="/acl" target="_blank">Antonio Carrillo Ledesma</a></i></li>
+
+</ul>
+
